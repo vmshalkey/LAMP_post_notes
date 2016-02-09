@@ -1,0 +1,9 @@
+.sticky{
+	margin: 10px;
+	padding: 10px;
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	border: 1px solid black;
+	overflow: scroll;
+}
